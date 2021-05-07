@@ -1,4 +1,6 @@
 python
 django
 css
-aprender hacer actualizaciones
+aprender hacer actualizacions
+aprender a acutalizar en github
+
